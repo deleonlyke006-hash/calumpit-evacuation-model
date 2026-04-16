@@ -23,5 +23,3 @@ Transportation capacity is the main bottleneck.
 - model/ → C++ code
 - results/ → Analysis
 
-## Authors
-Lycomar De Leon et al.
